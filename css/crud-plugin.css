@@ -1,0 +1,32 @@
+.wp-list-table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.wp-list-table th {
+    font-weight: bold;
+    text-align: left;
+   
+}
+
+.wp-list-table td {
+    padding: 10px;
+}
+
+
+#crud-results {
+    margin-top: 20px;
+}
+
+.boton{
+    background-color: #2271B1;
+    border: none;
+    height: 34px;
+    width: 100px;
+    color: azure;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background-color: #222;
+}
